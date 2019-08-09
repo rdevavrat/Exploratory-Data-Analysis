@@ -17,7 +17,7 @@ Packages used: Rtweet, ggmap, ggplot
 
 ### Analysis
 
-Around 100,000,00 tweets were mined using different keywords like "flu", "#flu", "influenza", etc. 
+Around 1,000,000 tweets were mined using different keywords like "flu", "#flu", "influenza", etc. 
 For tweets without locations, the location is added using "geocode" from Google's API. 
 The US heatmap generated using the tweets isnt as close as the one on the CDC website.
 
